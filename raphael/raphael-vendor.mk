@@ -248,4 +248,5 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     QPerformance \
     UxPerformance \
-    WfdCommon
+    WfdCommon \
+    libplatformconfig
